@@ -22911,6 +22911,7 @@ input[readonly] {
       max-width: 98%; } }
 
 .main {
+  overflow: hidden;
   margin-top: 73px;
   background: url("../images/bbg.svg") fixed 0 250px;
   background-size: 100%; }
