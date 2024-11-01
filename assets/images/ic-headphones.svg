@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="26" viewBox="0 0 23 26">
+  <g id="ic-headphones" transform="translate(-31)">
+    <g id="Group_34" data-name="Group 34" transform="translate(34.067 10.615)">
+      <g id="Group_33" data-name="Group 33" transform="translate(0)">
+        <path id="Path_141" data-name="Path 141" d="M93.3,210a2.3,2.3,0,0,0-2.3,2.3v6.236a2.3,2.3,0,0,0,4.6,0V212.3A2.3,2.3,0,0,0,93.3,210Z" transform="translate(-91 -210)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(31 12.275)">
+      <g id="Group_35" data-name="Group 35" transform="translate(0)">
+        <path id="Path_142" data-name="Path 142" d="M32.533,243.012a3.8,3.8,0,0,1,.065-.646,2.3,2.3,0,0,0-1.6,2.179v3.169a2.3,2.3,0,0,0,1.6,2.179,3.8,3.8,0,0,1-.065-.646Z" transform="translate(-31 -242.366)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(40.2 10.564)">
+      <g id="Group_37" data-name="Group 37" transform="translate(0)">
+        <path id="Path_143" data-name="Path 143" d="M219.433,210a2.3,2.3,0,0,0-2.3,2.3v6.236a2.3,2.3,0,0,0,2.3,2.3,2.269,2.269,0,0,0,.659-.108,2.3,2.3,0,0,1-2.192,1.641h-2.441a2.3,2.3,0,1,0,0,1.533H217.9a3.838,3.838,0,0,0,3.833-3.833V212.3A2.3,2.3,0,0,0,219.433,210Z" transform="translate(-211 -210)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_40" data-name="Group 40" transform="translate(52.401 12.275)">
+      <g id="Group_39" data-name="Group 39">
+        <path id="Path_144" data-name="Path 144" d="M449.722,242.366a3.8,3.8,0,0,1,.065.646v6.236a3.8,3.8,0,0,1-.065.646,2.3,2.3,0,0,0,1.6-2.179v-3.169A2.3,2.3,0,0,0,449.722,242.366Z" transform="translate(-449.722 -242.366)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(31)">
+      <g id="Group_41" data-name="Group 41" transform="translate(0)">
+        <path id="Path_145" data-name="Path 145" d="M42.5,0A11.513,11.513,0,0,0,31,11.5v.02a3.8,3.8,0,0,1,1.568-.712,9.955,9.955,0,0,1,19.863,0A3.8,3.8,0,0,1,54,11.52V11.5A11.513,11.513,0,0,0,42.5,0Z" transform="translate(-31)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

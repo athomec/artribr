@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-address" transform="translate(-7017 -5376)">
+    <g id="_x34_7" transform="translate(7017 5376)">
+      <path id="Path_1079" data-name="Path 1079" d="M24.037,10.425l-3.328-2.8V3.637a.744.744,0,0,0-.744-.744H17.606a.744.744,0,0,0-.744.744v.738l-3.54-2.983a.954.954,0,0,0-1.308,0L1.307,10.425a.96.96,0,0,0,.654,1.664H3.51V23.256a.965.965,0,0,0,.962.962h16.4a.965.965,0,0,0,.962-.962V12.089h1.549a.962.962,0,0,0,.654-1.664ZM13.4,20.721a1.045,1.045,0,0,1-1.683,0c-1.327-1.828-3.771-5.425-3.771-7.272a4.617,4.617,0,0,1,9.234,0c0,1.847-2.443,5.444-3.78,7.272Z" transform="translate(-1 -1.132)" fill="#fff"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="1.924" cy="1.924" rx="1.924" ry="1.924" transform="translate(9.637 9.845)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_187" data-name="Rectangle 187" width="24" height="24" transform="translate(7017 5376)" fill="none"/>
+  </g>
+</svg>
