@@ -1001,6 +1001,12 @@
         });
     });
 
+    $('.navbar-nav .nav-link').on('click', function () {// 收回下拉選單
+            if ($(window).width() < 992) {
+                $('#menu').collapse('hide');
+            }
+        });
+
      AOS.init();
 </script>
 	</body>
