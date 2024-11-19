@@ -25178,7 +25178,16 @@ input[readonly] {
   font-size: 1.2rem;
   font-weight: 600;
   padding-left: 24px;
-  padding-right: 24px; }
+  padding-right: 24px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
   .modal-header:after {
     content: "";
     display: block;
@@ -25187,11 +25196,13 @@ input[readonly] {
     bottom: 0;
     width: calc(100% - 48px);
     height: 1px;
-    background: #FEEACC; }
+    background: #F89400; }
   .modal-header .btn-close {
     background: url("../images/ic-close.svg") no-repeat center;
-    background-size: 80%;
+    background-size: 16px;
     opacity: 1;
+    margin: 0;
+    padding: 0;
     text-indent: -9999px;
     overflow: hidden;
     white-space: nowrap; }
